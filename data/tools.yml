@@ -656,3 +656,25 @@
     website: https://github.com/paulirish/pwmetrics
     category: 'Analysis & Monitoring'
     tags: ['metrics', 'performance', 'lighthouse']
+-
+    name: Dotcom Tools Website Speed Test
+    description: 'Test the load time of your website for free from 24 locations around the world.'
+    website: https://www.dotcom-tools.com/website-speed-test.aspx
+    category: 'Analysis & Monitoring'
+    related: ['PageSpeedInsights', 'Webpage Test']
+    tags: ['analysis']
+-
+    name: LoadView Testing
+    description: 'Perform a load or stress test on your website, server, or web application.'
+    website: https://www.loadview-testing.com/
+    category: 'Analysis & Monitoring'
+    related: ['PageSpeedInsights', 'Webpage Test']
+    tags: ['analysis', 'optimization', 'RUM']
+-
+    name: Dotcom-Monitor
+    description: 'Comprehensive website monitoring, diagnostics and performance testing.'
+    website: https://www.dotcom-monitor.com/
+    category: 'Analysis & Monitoring'
+    related: ['PageSpeedInsights', 'Webpage Test']
+    tags: ['analysis', 'optimization', 'RUM']
+
